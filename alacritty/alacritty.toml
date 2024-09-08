@@ -30,32 +30,32 @@ color = "0xe8e8e8"
 index = 21
 
 [colors.bright]
-black = "#214969"
-red = "#E52E2E"
-green = "#44FFB1"
-yellow = "#FFE073"
-blue = "#A277FF"
-magenta = "#a277ff"
-cyan = "#24EAF7"
-white = "#24EAF7"
+black = "#444b6a"
+blue = "#7da6ff"
+cyan = "#0db9d7"
+green = "#b9f27c"
+magenta = "#bb9af7"
+red = "#ff7a93"
+white = "#acb0d0"
+yellow = "#ff9e64"
 
 [colors.cursor]
 cursor = "CellForeground"
 text = "CellBackground"
 
 [colors.normal]
-black = "#214969"
-red = "#E52E2E"
-green = "#44FFB1"
-yellow = "#FFE073"
-blue = "#0FC5ED"
-magenta = "#a277ff"
-cyan = "#24EAF7"
-white = "#24EAF7"
+black = "#32344a"
+blue = "#7aa2f7"
+cyan = "#449dab"
+green = "#9ece6a"
+magenta = "#ad8ee6"
+red = "#f7768e"
+white = "#787c99"
+yellow = "#e0af68"
 
 [colors.primary]
-background = "0x080808"
-foreground = "0xfbf1c7"
+background = "#1a1b26"
+foreground = "#a9b1d6"
 
 [colors.selection]
 background = "0xdc3232"
@@ -67,10 +67,10 @@ shape = "Beam"
 
 
 [font]
-size = 11
+size = 9
 
 [font.bold]
-family = "Hack Nerd Font Mono"
+family = "MesloLGS Nerd Font Mono"
 style = "Bold"
 
 [font.glyph_offset]
@@ -78,11 +78,11 @@ x = 0
 y = 0
 
 [font.italic]
-family = "Hack Nerd Font Mono"
+family = "MesloLGS Nerd Font Mono"
 style = "Italic"
 
 [font.normal]
-family = "Hack Nerd Font Mono"
+family = "MesloLGS Nerd Font Mono"
 style = "Regular"
 
 [font.offset]
