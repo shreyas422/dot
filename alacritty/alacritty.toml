@@ -1,6 +1,9 @@
 [env]
 TERM = "xterm-256color"
 
+ 
+#[renderer]
+#vsync = false
 
 [colors]
 draw_bold_text_with_bright_colors = true
@@ -67,7 +70,7 @@ shape = "Beam"
 
 
 [font]
-size = 9
+size = 10
 
 [font.bold]
 family = "MesloLGS Nerd Font Mono"
@@ -109,3 +112,6 @@ lines = 36
 [window.padding]
 x = 35
 y = 35
+
+
+
