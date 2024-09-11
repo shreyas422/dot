@@ -1,10 +1,6 @@
 [env]
 TERM = "xterm-256color"
 
- 
-#[renderer]
-#vsync = false
-
 [colors]
 draw_bold_text_with_bright_colors = true
 
@@ -63,11 +59,9 @@ foreground = "#a9b1d6"
 [colors.selection]
 background = "0xdc3232"
 text = "0xffffff"
-#white = "0xffffff"
 
 [cursor.style]
 shape = "Beam"
-
 
 [font]
 size = 10
@@ -112,6 +106,3 @@ lines = 36
 [window.padding]
 x = 35
 y = 35
-
-
-
