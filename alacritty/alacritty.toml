@@ -53,11 +53,11 @@ white = "#787c99"
 yellow = "#e0af68"
 
 [colors.primary]
-background = "#1a1b26"
+background = "#0A1010"
 foreground = "#a9b1d6"
 
 [colors.selection]
-background = "0xdc3232"
+background = "#ffffff"
 text = "0xffffff"
 
 [cursor.style]
@@ -97,7 +97,7 @@ multiplier = 3
 
 [window]
 decorations = "full"
-opacity = 0.7
+opacity = 0.6
 
 [window.dimensions]
 columns = 140
