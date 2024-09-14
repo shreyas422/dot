@@ -6,6 +6,7 @@ brightnessctl set 10%-
 
 brightnessctl set n%  ---maximum brightness in my laptop is {255}
 
+brightnessctl get ---live brightness
 
 
 
