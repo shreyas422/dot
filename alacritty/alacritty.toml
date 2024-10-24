@@ -5,60 +5,44 @@ TERM = "xterm-256color"
 draw_bold_text_with_bright_colors = true
 
 [[colors.indexed_colors]]
-color = "0xdc9656"
+color =  "0xffbd5e"
 index = 16
 
 [[colors.indexed_colors]]
-color = "0xa16946"
+color = "0xff6e5e"
 index = 17
 
-[[colors.indexed_colors]]
-color = "0x282828"
-index = 18
-
-[[colors.indexed_colors]]
-color = "0x383838"
-index = 19
-
-[[colors.indexed_colors]]
-color = "0xb8b8b8"
-index = 20
-
-[[colors.indexed_colors]]
-color = "0xe8e8e8"
-index = 21
-
 [colors.bright]
-black = "#444b6a"
-blue = "#7da6ff"
-cyan = "#0db9d7"
-green = "#b9f27c"
-magenta = "#bb9af7"
-red = "#ff7a93"
-white = "#acb0d0"
-yellow = "#ff9e64"
+black = "0x3c4048"
+blue = "0x5ea1ff"
+cyan = "0x5ef1ff"
+green = "0x5eff6c"
+magenta = "0xbd5eff"
+red = "0xff6e5e"
+white = "0xffffff"
+yellow = "0xf1ff5e"
 
 [colors.cursor]
 cursor = "CellForeground"
 text = "CellBackground"
 
 [colors.normal]
-black = "#32344a"
-blue = "#7aa2f7"
-cyan = "#449dab"
-green = "#9ece6a"
-magenta = "#ad8ee6"
-red = "#f7768e"
-white = "#787c99"
-yellow = "#e0af68"
+black = "0x16181a"
+blue = "0x5ea1ff"
+cyan = "0x5ef1ff"
+green = "0x5eff6c"
+magenta = "0xbd5eff"
+red = "0xff6e5e"
+white = "0xffffff"
+yellow = "0xf1ff5e"
 
 [colors.primary]
-background = "#0A1010"
-foreground = "#a9b1d6"
+background = "0x16181a"
+foreground = "0xffffff"
 
 [colors.selection]
-background = "#ffffff"
-text = "0xffffff"
+background = "0x3c4048"
+foreground = "0xffffff"
 
 [cursor.style]
 shape = "Beam"
